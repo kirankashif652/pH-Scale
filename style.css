@@ -1,0 +1,120 @@
+body{
+    background-color:lightgray;
+}
+
+h1{
+    background-color:white;
+    margin:30px;
+    width: 600;
+    height: 50px;
+    border-radius: 50px;
+    font-weight: 5px;
+}
+
+.box1 {
+   background-color:rgb(87, 131, 212);
+   color: white;
+   width: 600;
+   height: 20px;
+}
+
+.box2 {
+    background-color:rgb(114, 150, 224);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box3 {
+    background-color:rgb(125, 163, 230);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box4 {
+    background-color:rgb(142, 172, 241);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box5 {
+    background-color:rgb(154, 187, 248);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box6 {
+    background-color:rgb(174, 202, 255);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box7 {
+    background-color:rgb(192, 214, 255);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box8 {
+    background-color:rgb(60, 158, 60);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box9 {
+    background-color:rgb(255, 187, 207);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box10 {
+    background-color:rgb(245, 185, 203);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box11 {
+    background-color:rgb(241, 170, 191);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box12 {
+    background-color:rgb(241, 162, 186);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box13 {
+    background-color:rgb(241, 144, 173);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box14 {
+    background-color:rgb(238, 126, 159);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ .box15 {
+    background-color:rgb(236, 101, 142);
+    color: white;
+    width: 600;
+    height: 20px;
+ }
+
+ 
+ 
